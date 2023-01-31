@@ -1,6 +1,8 @@
 PlotBitrate
 ===========
 
+## [CHS 中文文档](https://github.com/SHIELDXIE/plotbitrate/blob/main/PlotBitrate%20%E4%B8%AD%E6%96%87%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3.md)
+
 FFProbe Bitrate Graph
 
 This project contains a script for plotting the bitrate of an audio or video
